@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>D3 stacked bar</title>
+
+    <style>
+      svg { 
+        background: #f9f9f9;
+        display: block;
+        margin: auto;
+      }
+
+
+      body {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+      }
+
+
+ 
+    
+}
+
+
+    </style>
+  </head>
+</head>
+<body>
+<div class="container">
+  <h3>Stack Bar Chart and Legend Demo </h3>
+</div>
+<!-- this will hold the D3 graph -->
+  <div id="chart"></div>
+  
+<div>See this HTML page for importing observable's legend model. See bar_stacked.js for d3 grouping methods and data transformations (datetime).</div>
+  <!-- loading in the D3 library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+
+  <!-- Load the visualization -->
+  <script src="bar_stacked.js"></script>
+
+
+
+  <!-- Ok below is how we can imported the observable-based LEGEND module working -->
+
+
+<script type="module">
+  import {Runtime} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+ 
+  // Basic loader example. Doesn't support aliasing/redefining.
+  async function load(slug, names) { 
+    const url = `https://api.observablehq.com/${slug}.js?v=3`;
+    const module = (new Runtime).module((await import(url)).default);
+    const values = names.map(n => module.value(n).then(v => [n, v]));
+    return Object.fromEntries(await Promise.all(values)); 
+  }
+  
+  // Wrap in a function (an "IEFE") so we can use await and avoid .then()
+  (async function run() {
+    // Load d3 and legend from the notebook.
+    const {d3, legend} = await load('@d3/color-legend', ['d3', 'legend']);
+
+    const myLegend = legend({
+      color:  d3.scaleOrdinal([2022,2023,2024,2025],d3.schemeCategory10),
+      title: "Years"
+    });
+
+    document.body.appendChild(myLegend);
+    
+  }());
+</script>
+</body>
+</html>

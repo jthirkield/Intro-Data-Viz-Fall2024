@@ -1,0 +1,69 @@
+rank,name,country,city,type,desc,lat,long
+1,Louvre,France,Paris,Art,"The museum is located in the former royal palace. The Louvre Museum was officially opened in 1793.
+About 38,000 works of art were exhibited on the exhibition area of ​​over 60,000 square meters. The Louvre's full resources are 350,000 exhibits.
+The exhibits collected at the Louvre Museum were assigned to eight collections:
+The art of ancient Egypt - e.g. ""The Great Sphinx"",
+The art of ancient Greece and Rome - e.g. ""Venus of Milo"", ""Nike of Samothrace"",
+Art of the Ancient Near East - e.g. Hammurabi Codex document, figure of the goddess Nephthys,
+Islamic art - e.g. Waza Barberini, Josse's Shroud,
+Sculpture - e.g. Antonio Canova's Cupid and Pyche, Michelangelo's Dying Captive,
+Painting - works of the best French, Flemish, Dutch or German painters, above all Leonardo da Vinci's ""Mona Lisa"",
+Art Craft - e.g. Harbaville Triptych, Polyptych with Mary and Baby Jesus,
+Drawing and Graphics - e.g. Eugène Delacroix drawings and watercolors.",48.8606111,2.337644
+2,National Gallery,United Kingdom,London,Art,"National Gallery was founded in 1824. You can see 2,300 images there.
+The most famous works:
+- Leonardo da Vinci ""Madonna in the Grotto""
+- Vincent van Gogh ""Sunflowers""
+- Rembrandt van Rijn ""Bathing woman""
+- Caravaggio ""Supper in Emmaus""",51.50892899999999,-0.128299
+5,National Museum of China,China,Beijing,National,"The museum was founded in 2003 by merging two museums: Museum of the Chinese Revolution and National Museum of Chinese History.
+The permanent exhibition consists of over one million exhibits.
+The most important are ""Simuwu Ding"" from the Shang Dynasty, the square shaped Shang Dynasty bronze zun, jade burial suits sewn with gold thread from Han Dynasty and Song Dynasty ceramics. The museum has a unique numismatic collection.",39.9050945,116.4015829
+7,Metropolitan Museum of Art,USA,New York,Art,"The oldest and largest American museum. Founded in 1870.
+The collections are divided into thematic sections covering the history of world art: painting, applied art, military, musical instruments, photography.
+The collection of paintings includes works of the world's greatest artists. The collection's decoration is the canvas of Dutch master Rembrandt. Italian paintings are represented by paintings e.g. Botticelli and Rafael.
+The museum has an excellent collection of 19th-century French painting e.g. Manet, Monet, Renoir, van Gogh, Cézanne.",40.7127753,-74.0059728
+10,State Hermitage Museum,Russia,St Petersburg,Art,"The State Hermitage Museum has been open to the public since 1852.
+The entire collection is more than 3 million artifacts, including 1 million numismatic items.
+The State Hermitage Museum presents monuments of culture and art of ancient Egypt and Greece as well as gold of the Scythians. The Hermitage collection includes two paintings by Leonardo da Vinci and the largest collection of Rembrandt paintings outside the Netherlands. The decoration of the collection is the paintings of Impressionists and post-Impressionists. The Hermitage has in its resources a rich collection of Asian art; Central Asian art collection attracts special attention. An important part of the collection is Russian art covering the period from the 11th to the 19th century.",59.93983170000001,30.3145597
+12,National Air and Space Museum,USA,Washington,Air and space,"National Air and Space Museum part of the Smithsonian Institution, open since 1976. He makes public about 80% of his 50,000 exhibits. The most important of them are:
+- the world's first Flyer I engine plane constructed in 1903 by the Wright brothers
+- Spirit of St. Louis, which the American pilot Charles Lindbergh made in 1927 the first single stopover flight from North America to Europe
+- built from original components acquired during World War II, the German V2 rocket
+- Columbia command module (orbital) from the Apollo 11 mission, during which the first human landing on the moon took place
+- Discovery space shuttle
+- supersonic Concorde passenger plane
+
+A view of the ""America by Air"" gallery; National Air and Space Museum, Smithsonian",38.88816010000001,-77.0198679
+15,Reina Sofía,Spain,Madrid,Art,"Reina Sofía was opened in 1990.
+It presents contemporary Spanish art in an international context from the end of the 19th century to the present day. Pablo Picasso's painting Guernica from 1937 is exhibited in Reina Sofía. Other artists whose artistic achievements are in the collection of Reina Sofía are, for example: Salvador Dali, Joan Miró, Juan Gris, Georges Braque, Francis Bacon, Alexander Calder, René Magritte, Robert Delaunay, Man Ray and Yves Klein.
+The collection comprises over 20,000 works, five percent of which are on display.
+The museum also houses an art library with over 100,000 books.",40.4079123,-3.6945569
+16,Zhejiang Museum,China,Hangzhou,Art,"Zhejiang Museum was founded in 1929 as the West Lake Museum. It has over 100,000 exhibits in its permanent collection.
+His collection includes archaeological findings of the Neolithic Hemudu culture, jade artifacts and silk fabrics of the Liangzhu culture, bronze Yue instruments, ceramics from the Tang Dynasty in Yue kilns, a bronze mirror from Huzhou, and calligraphies and paintings of local painters from the Ming and Qing period.",30.25052599999999,120.142789
+20,National Palace Museum,Chinese Taipei,Taipei,Art,"The National Palace Museum was originally created as the Palace Museum in the Forbidden City in 1925.
+The permanent collection consists of nearly 700,000 exhibits of ancient Chinese artifacts and works of art collected by Chinese emperors. The museum has Chinese calligraphy, porcelain, bronze, paintings, jade. The museum collections present art from the Neolithic era to the present day.",25.1023554,121.5484925
+24,Le Gallerie degli Uffizi,Italy,Florence,Art,"Galleria degli Uffizi was opened to the public in 1765.
+Le Gallerie degli Uffizi consists of: Gli Uffizi, Corridoio Vasariano, Palazzo Pitti, Giardino di Boboli.
+The gallery is divided into rooms with works of art representing, in chronological order, various schools and styles.
+The pride of the gallery are paintings by Sandro Botticelli, Leonardo da Vinci, Rafael, and Titian.",43.7677856,11.2553108
+32,Tokyo Metropolitan Art Museum,Japan,Tokyo,Art,"Tokyo Metropolitan Art Museum was first opened in 1926 as the Tokyo Prefectural Museum of Art. The museum mainly exhibits the work of leading Japanese and foreign artists at temporary exhibitions. Exhibitions cover a very wide spectrum from traditional Japanese exhibitions from the Edo period, calligraphy and wood engraving to Art Nouveau, paintings by Van Gogh, Gauguin, Klimt, Munch and new wave art.",35.7172113,139.7729387
+40,Mevlana Museum,Turkiye,Konya,Mausoleum,"Mevlana Museum is the mausoleum of Jalal ad-Din Muhammad Rumi, a Persian Sufi mystic also known as Mevlâna; original lodge of Mevlevi whirling dervishes. The museum was opened in 1927.",37.8707281,32.504999
+42,National Museum of Anthropology,Mexico,Mexico City,"Archeology, anthropology","The National Museum of Anthropology has been open since 1964.
+Exposition area: 44,000 square meters.
+In the museum you can see archaeological and ethnographic collections from 2500 BC to the present day.",19.4260032,-99.1862786
+44,National Gallery of Victoria,Australia,Melbourne,Art,"The National Gallery of Victoria was founded in 1861.
+It consists of two sections: the NGV International art gallery and the NGV Australia art gallery.
+At NGV International you can see the works of such masters as Rembrandt, Titian, and Manet.
+Whereas NGV Australia presents the art of Aborigines and Australian painters representing different periods, from classic colonial painters, through Australian Impressionists to contemporary artists.",-37.8225942,144.9689278
+47,Houston Museum of Natural Science,USA,Houston,Natural history,"The Houston Museum of Natural Science was founded in 1909.
+The museum complex consists of the main facility and the Burke Baker Planetarium, Cockrell Butterfly Center and Wortham Giant Screen Theater.
+In the museum you can see dinosaurs and other exhibits from various fields of knowledge, e.g. geology, biology, geography.",29.7220625,-95.3895625
+50,National Museums Scotland,United Kingdom,Edinburgh,"National - archeology,... natural history, science and technology, air, military","The National Museums Scotland (NMS) was formed in 1985, however, it originates from the Society of Antiquaries of Scotland founded in 1780.
+The museum consists of:
+- National Museum of Scotland
+- National Museum of Flight
+- National War Museum
+- National Museum of Rural Life
+- National Museums Collection Centre
+The exhibitions display 8,000 exhibits, mainly Scottish archaeological monuments but also objects from around the world in the fields of geology, natural history, art as well as science and technology.",55.947258,-3.190025

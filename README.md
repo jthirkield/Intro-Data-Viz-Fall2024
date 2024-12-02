@@ -10,6 +10,7 @@ MON 7:00 – 9:40PM | 6 East 16th Street. Room: 1208
 INSTRUCTOR: Jonathan Thirkield, jthirkield@newschool.edu
 
 **Course Description:** This is a seminal course on information design and aesthetics. Students will study graphical theory, graph grammar, and investigate hierarchies, patterns, and relationships in data structures. Students will examine the role of scale, proportion, color, form, structure, motion, and composition in data visualization. Using computational methods, students will create drawings, graphs, indexes, and maps that explore the database as cultural form. The function of this course is to build a community among the students and orient them to the whole program.
+
 **Learning Outcomes:**
 
 By the successful completion of this course, students will be able to:
@@ -34,15 +35,15 @@ Code Intro 1: Text Machine: Functions and Text Processes in JavaScript
 
 #### Reading:
 
-Whitney Battle-Baptiste and Britt Rusert, W. E. B. du Bois's Data Portraits: Visualizing Black America
+Whitney Battle-Baptiste and Britt Rusert, *W. E. B. du Bois's Data Portraits: Visualizing Black America*
 
 #### Canvas Discussion:
 
 Discussion 1: W. E. B. du Bois's Data Portraits
 
-### Week 2: Coding Lab: JavaScript Basics (9/2)
+### Week 2: Coding Intro: JavaScript Basics (9/2)
 
-Tutorial: Data Types and Coding Structures in JavaScript
+*Tutorial:* Data Types and Coding Structures in JavaScript
 
 #### Assignment:
 
@@ -64,7 +65,7 @@ Visualization Exercise 1: Time Visualization (Due 9/23)
 
 #### Reading: 
 
-Johanna Ducker, Interpreting Visualization :: Visualizing Interpretation
+Johanna Ducker, *Interpreting Visualization :: Visualizing Interpretation*
 
 #### Canvas Discussion:
 
@@ -90,7 +91,7 @@ Visualization Exercise 2: Quantities, categories, and summarized data (Due 10/7)
 
 #### Reading:
 
-William Bevington, Complications and Adjacencies: An Organizing Logic for Information Graphics
+William Bevington, *Complications and Adjacencies: An Organizing Logic for Information Graphics*
 
 #### Canvas Discussion:
 
@@ -118,7 +119,7 @@ Visualization Exercise 3.0: Creating a Qualitative Data Set (Due 10/14)
 
 #### Reading:
 
-Lisa Gitelman and Virginia Jackson, "Raw Data" is an Oxymoron: Introduction
+Lisa Gitelman and Virginia Jackson, *"Raw Data" is an Oxymoron: Introduction*
 
 #### Canvas Discussion:
 
@@ -136,7 +137,7 @@ Visualization Exercise 3.1: Qualitative Visualization (Due 10/28)
 
 #### Reading:
 
-Ellen Gruber Garvey, "facts and FACTS": Abolitionists' Database Innovations
+Ellen Gruber Garvey, *"facts and FACTS": Abolitionists' Database Innovations*
 
 ### Week 9: Qualitative Visual Forms (10/21)
 
@@ -160,7 +161,7 @@ Visualization Exercise 4: Geospatial Data (Due 11/11)
 
 #### Reading:
 
-Giorgia Lupi, Non-linear Storytelling: Journalism through "Info-spatial" Compositions
+Giorgia Lupi, *Non-linear Storytelling: Journalism through "Info-spatial" Compositions*
 
 #### Canvas Discussion:
 
@@ -184,6 +185,10 @@ Visualization Exercise 4 continued: Geospatial Data (Due 11/11)
 
 Final Project Presentations: Research, Data Gathering, Initial Sketches
 
+#### Reading:
+
+Ellen Lupton, *Type on Screen*
+
 ### Week 13: Final Projects (11/18)
 
 **Final Projects** Student Presentations of Final Projects Data Sets and Concepts
@@ -191,6 +196,10 @@ Final Project Presentations: Research, Data Gathering, Initial Sketches
 #### Assignment:
 
 Final Projects: Design Development
+
+#### Reading:
+
+Johanna Drucker, *Interface and Interpretation*
 
 ### Week 14: Final Projects (12/2)
 

@@ -18,7 +18,7 @@ By the successful completion of this course, students will be able to:
 1. Understand the various methods and techniques of modern data visualization along with its historical origins.
 2. Design and critique visual communication and information displays.
 3. Describe, analyze, and evaluate various data visualization approaches.
-4. Implement data visualization's using web technologies, such as HTML, CSS, and JavasScript
+4. Implement data visualizations using web technologies including D3, HTML, CSS, and JavaScript
 5. Explore creative possibilities for visualization and knowledge generation
 
 ## COURSE OUTLINE
@@ -111,7 +111,7 @@ Visualization Exercise 2 continued: Quantities, categories, and summarized data 
 
 *Presentation & Critique:* Exercise 2
 
-*Lecture/Discussion:* Data Taxonomy and Ontogoly
+*Lecture/Discussion:* Data Taxonomy and Ontology
 
 #### Assignment:
 
